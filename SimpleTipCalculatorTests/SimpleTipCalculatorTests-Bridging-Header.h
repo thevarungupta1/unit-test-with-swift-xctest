@@ -1,0 +1,7 @@
+
+#ifndef SimpleTipCalculator_SimpleTipCalculatorTests_Bridging_Header_h
+#define SimpleTipCalculator_SimpleTipCalculatorTests_Bridging_Header_h
+
+#import "helpers.h"
+
+#endif
